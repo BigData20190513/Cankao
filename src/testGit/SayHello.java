@@ -6,6 +6,10 @@ public class SayHello {
 		System.out.println("hello!");
 		System.out.println("yew!!");
 		System.out.println("gameout!!");
+		System.out.println("gamecoming!!");
+		System.out.println("gamecoming!!");
+		System.out.println("gamecoming!!qwqeqweqw!!!");
+		
 	}
 
 }
